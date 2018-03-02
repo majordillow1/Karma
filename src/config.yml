@@ -1,0 +1,121 @@
+#sql
+host: "149.56.17.117"
+port: 3306
+database: "mc29489"
+username: "mc29489"
+password: "ff721f4bb1"
+NeutralName: " &4[&3N&4]"
+NeutralLaw: " &4[&3NL&4]"
+#This has to do with how many points given for each event
+TreeGrow: 0.5
+#TntExplode: -0.25
+BadMobKills: 0.01
+GoodMobKills: -0.01
+Arson: -0.2
+Planting: 0.01
+#set this at the top and bottom level level you make
+MaxLevel: 8
+MinLevel: -8
+MaxLaw: 2
+MinLaw: -2
+#these gotta be from lower to top becuz i suck
+BanditRoles:
+- ' &c[&7E&c]:-1'
+- ' &c[&8B&c]:-2'
+- ' &c[&4M&c]:-3'
+- ' &c[&0R&c]:-4'
+- ' &4[&7F&4]:-5'
+- ' &4[&8D&4]:-6'
+- ' &4[&4ST&4]:-7'
+- ' &4[&0D&4]:-8'
+
+HeroRoles:
+- ' &9[&8F&9]:1'
+- ' &9[&7V&9]:2'
+- ' &9[&bR&9]:3'
+- ' &9[&fPK&9]:4'
+- ' &1[&8SH&1]:5'
+- ' &1[&7G&1]:6'
+- ' &1[&bS&1]:7'
+- ' &1[&fH&1]:8'
+
+
+LawfulNess:
+- ' &9[&8C&9]:1'
+- ' &9[&7R&9]:2'
+- ' &9[&bP&9]:3'
+- ' &9[&fD&9]:4'
+- ' &1[&8L&1]:5'
+- ' &1[&7O&1]:6'
+- ' &1[&bRT&1]:7'
+- ' &1[&fA&1]:8'
+Chaotic:
+- ' &c[&7U&c]:-1'
+- ' &c[&8R&c]:-2'
+- ' &c[&4FS&c]:-3'
+- ' &c[&0D&c]:-4'
+- ' &4[&7L&4]:-5'
+- ' &4[&8A&4]:-6'
+- ' &4[&4RP&4]:-7'
+- ' &4[&0U&4]:-8'
+
+BadMobs:
+- 'ZOMBIE'
+- 'blaze'
+- 'cave_Spider'
+- 'creeper'
+- 'ELDER_GUARDIAN'
+- 'ENDER_DRAGON'
+- 'ENDERMAN'
+- 'ENDERMITE'
+- 'EVOKER'
+- 'GHAST'
+- 'GUARDIAN'
+- 'HUSK'
+- 'ILLUSIONER'
+- 'MAGMA_CUBE'
+- 'SHULKER'
+- 'SILVERFISH'
+- 'SKELETON'
+- 'SLIME'
+- 'SPIDER'
+- 'STRAY'
+- 'VEX'
+- 'VINDICATOR'
+- 'WITCH'
+- 'WITHER'
+- 'WITHER_SKELETON'
+- 'ZOMBIE'
+- 'ZOMBIE_VILLAGER'
+
+
+
+GoodMobs:
+- 'horse'
+- 'bat'
+- 'CHICKEN'
+- 'COW'
+- 'DONKEY'
+- 'IRON_GOLEM'
+- 'LLAMA'
+- 'MULE'
+- 'MUSHROOM_COW'
+- 'OCELOT'
+- 'PARROT'
+- 'PIG'
+- 'PIG_ZOMBIE'
+- 'PLAYER'
+- 'POLAR_BEAR'
+- 'RABBIT'
+- 'SHEEP'
+- 'SNOWMAN'
+- 'SQUID'
+- 'VILLAGER'
+- 'WOLF'
+
+Plants:
+- 'crops'
+- 'carrot'
+- 'potato'
+- 'beetroot_block'
+- 'Nether_Warts'

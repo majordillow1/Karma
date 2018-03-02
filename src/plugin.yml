@@ -1,0 +1,16 @@
+name: Karma
+main: shanooshkarma.ShanooshKarma
+version: 1.0
+author: oceanichelicopter
+depend: [Vault,NametagEdit]
+commands:
+    reloadKarma:
+        description: For reloading the karma config
+        usage: /reloadkarma
+    KNameReload:
+        description: For reloading player names
+        usage: /knamereload
+permissions:
+    Karma.Commands:
+        description: For executing commands on Karma
+        default: op
